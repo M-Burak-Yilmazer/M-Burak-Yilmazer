@@ -57,7 +57,8 @@ I prefer React & React Native for web/mobile front-end development.
 ## My projects
   Project Name       |Libraries and Technologies I use     |How does my project look   
 :-------------------------|-------------------------|-------------------------
-[React Router Checkout App](https://toysland-shop-app-mathias.netlify.app/))| React, React Redux, Material UI, Formik, Yup, Persist |![blog app](https://github.com/bengin34/bengin34/assets/118957608/6b9a6dfb-652b-4064-a630-639e7bcceb3a)
+[React Router Checkout App](https://toysland-shop-app-mathias.netlify.app/))| React, React Router, Bootsrap,  |
+![checkout2](https://github.com/M-Burak-Yilmazer/M-Burak-Yilmazer/assets/101402476/25d53436-aace-4b2b-9a50-58e2f7845a00)
 
 
 ## 📈 Statistics
